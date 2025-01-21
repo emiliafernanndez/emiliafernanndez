@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Estudiante avanzada de Ingeniería en Sistemas de Información.</p>
+<p align="center">Estudiante avanzada de Ingeniería en Sistemas de Información</p>
 
 ###
 

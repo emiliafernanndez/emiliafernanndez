@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/emiliafernanndez/" target="_blank">
+  <a href="https://www.linkedin.com/in/mar%C3%ADa-emilia-fern%C3%A1ndez/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
